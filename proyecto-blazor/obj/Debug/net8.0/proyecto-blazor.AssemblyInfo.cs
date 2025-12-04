@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proyecto-blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea777dc2a227058ce3dfcc8a594e77dfd003928")]
 [assembly: System.Reflection.AssemblyProductAttribute("proyecto-blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proyecto-blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

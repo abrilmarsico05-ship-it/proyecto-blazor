@@ -620,6 +620,7 @@ C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\proyecto-blazor.AssemblyInfo.cs
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\proyecto-blazor.csproj.CoreCompileInputs.cache
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\proyecto-blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\proyecto-blazor.sourcelink.json
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -1033,6 +1034,6 @@ C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\refint\proyecto-blazor.dll
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\proyecto-blazor.pdb
 C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\ref\proyecto-blazor.dll
-C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\compressed\vn2fgjqa9e-a1fgj0zv4b.gz
-C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\compressed\kbvk2n598p-zlxkoc0you.gz
-C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\compressed\1p7g7wt863-aacjhma538.gz
+C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\compressed\vn2fgjqa9e-dm1z6azvju.gz
+C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\compressed\kbvk2n598p-l8oi3iadn2.gz
+C:\Users\AbrilMarsico\source\repos\proyecto-blazor\proyecto-blazor\obj\Debug\net8.0\compressed\1p7g7wt863-lfbqvnpqw8.gz
