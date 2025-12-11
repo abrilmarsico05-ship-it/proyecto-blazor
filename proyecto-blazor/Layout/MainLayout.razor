@@ -1,30 +1,29 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="d-flex" id="wrapper">
-    <div class="bg-dark border-right @(MostrarMenu ? "" : "d-none")" id="sidebar-wrapper" style="width: 250px; min-height: 100vh;">
-        <div class="sidebar-heading text-white p-3">App MVC</div>
-        <div class="list-group list-group-flush">
-            <a href="#" class="list-group-item list-group-item-action bg-dark text-white p-3">Inicio</a>
-            <a href="#" class="list-group-item list-group-item-action bg-dark text-white p-3">Perfil</a>
-        </div>
+<div class="d-flex" style="height: 100vh; width: 100%;">
+
+    <div class="bg-dark text-white d-flex flex-column"
+         style="width: @(_expanded ? "250px" : "80px");
+                min-width: @(_expanded ? "250px" : "80px");
+                transition: width 0.3s ease-in-out;
+                overflow-x: hidden;">
+
+        <NavMenu Expanded="@_expanded" OnToggle="@ToggleSidebar" />
+
     </div>
 
-    <div id="page-content-wrapper" class="w-100">
-        <nav class="navbar navbar-light bg-light border-bottom px-3">
-            <button class="btn btn-primary" @onclick="AlternarMenu">☰ Menú</button>
-        </nav>
-
-        <div class="container-fluid p-4">
-            @Body
-        </div>
-    </div>
+    <main class="flex-grow-1 bg-light p-4" style="height: 100vh; overflow-y: auto;">
+        @Body
+    </main>
 </div>
 
 @code {
-    private bool MostrarMenu = true;
+    
+    private bool _expanded = true;
 
-    private void AlternarMenu()
+    
+    private void ToggleSidebar()
     {
-        MostrarMenu = !MostrarMenu;
+        _expanded = !_expanded;
     }
 }
