@@ -1,1 +1,29 @@
-﻿
+﻿@inherits LayoutComponentBase
+
+<div class="d-flex" style="height: 100vh; width: 100%;">
+
+    <div class="bg-dark text-white d-flex flex-column"
+         style="width: @(_expanded ? "250px" : "80px");
+                min-width: @(_expanded ? "250px" : "80px");
+                transition: width 0.3s ease-in-out;
+                overflow-x: hidden;">
+
+        <NavMenu Expanded="@_expanded" OnToggle="@ToggleSidebar" />
+
+    </div>
+
+    <main class="flex-grow-1 bg-light p-4" style="height: 100vh; overflow-y: auto;">
+        @Body
+    </main>
+</div>
+
+@code {
+    
+    private bool _expanded = true;
+
+    
+    private void ToggleSidebar()
+    {
+        _expanded = !_expanded;
+    }
+}

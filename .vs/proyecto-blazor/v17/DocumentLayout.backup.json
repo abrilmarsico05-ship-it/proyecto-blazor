@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D99FE7CE-217C-4594-8E63-D4123CAF67E7}|proyecto-blazor\\proyecto-blazor.csproj|c:\\users\\abrilmarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D99FE7CE-217C-4594-8E63-D4123CAF67E7}|proyecto-blazor\\proyecto-blazor.csproj|solutionrelative:proyecto-blazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D99FE7CE-217C-4594-8E63-D4123CAF67E7}|proyecto-blazor\\proyecto-blazor.csproj|c:\\users\\abrilmarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D99FE7CE-217C-4594-8E63-D4123CAF67E7}|proyecto-blazor\\proyecto-blazor.csproj|solutionrelative:proyecto-blazor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99FE7CE-217C-4594-8E63-D4123CAF67E7}|proyecto-blazor\\proyecto-blazor.csproj|c:\\users\\abrilmarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D99FE7CE-217C-4594-8E63-D4123CAF67E7}|proyecto-blazor\\proyecto-blazor.csproj|solutionrelative:proyecto-blazor\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D99FE7CE-217C-4594-8E63-D4123CAF67E7}|proyecto-blazor\\proyecto-blazor.csproj|c:\\users\\abrilmarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "proyecto-blazor\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "proyecto-blazor\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-05T19:20:17.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "proyecto-blazor\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\Layout\\MainLayout.razor",
               "RelativeToolTip": "proyecto-blazor\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-04T14:32:17.503Z",
+              "WhenOpened": "2025-12-04T17:58:15.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "proyecto-blazor\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\wwwroot\\index.html",
-              "RelativeToolTip": "proyecto-blazor\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-04T14:19:59.743Z",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "proyecto-blazor\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\AbrilMarsico\\source\\repos\\proyecto-blazor\\proyecto-blazor\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "proyecto-blazor\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T17:07:28.147Z",
               "EditorCaption": ""
             }
           ]
